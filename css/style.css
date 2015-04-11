@@ -4,6 +4,7 @@ h1,p,h2,h3{
 
 .featured {
   float: left;
+  padding: 3rem 0 3rem 0;
 }
 
 .featured h1 {
