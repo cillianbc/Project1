@@ -1,24 +1,28 @@
-
 .featured {
   float: left;
 }
-.featured h1{
-  color:#BCBBBB;
+
+.featured h1 {
+  color: #BCBBBB;
 }
 
-.logo img{
+.logo img {
   float: left;
   width: 20%;
   height: 40%;
   margin-left: 6%;
 }
 
-.about h2,p{
- margin-right: 6%;
-}.about h2 {
+.about h2,
+p {
+  margin-right: 6%;
+}
+
+.about h2 {
   float: right;
 }
-.about p{
+
+.about p {
   float: right;
   clear: both;
 }
